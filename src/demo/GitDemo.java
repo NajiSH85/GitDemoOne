@@ -12,7 +12,10 @@ public class GitDemo {
 			System.out.println("abc");
 		}else {
 			System.out.println("xyz");
+			
+			System.out.println("Git update");
 		}
 	}
+
 
 }
